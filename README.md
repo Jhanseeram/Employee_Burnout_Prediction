@@ -11,5 +11,3 @@ I used multiple regression models like Linear Regression, K-Nearest Neighbours a
 - WFH Setup Available: Whether the employee has access to a work from home setup. It can be "Yes" or "No".
 - Designation: The job title of the employee.
 
-# EDA(Exploratory data analysis)
-The data is being analyzed to examine the observations (rows) and characteristics (columns) of the dataset. It contains both categorical and numerical features, with a majority of the categorical features having a low number of distinct values. Upon closer examination, I noticed that there are missing values in our dataset. Additionally, I was surprised to find that the Target variable, which is the Burn Rate, also has missing values.
